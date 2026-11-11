@@ -1,0 +1,2 @@
+# Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels
+BAQ-TD: We combine batching and adaptive innovation quantization for linear policy evaluation over rate-limited channels. With sufficient capacity, it matches unquantized TD’s finite-time rate up to logarithmic factors with high probability, using O(d log T) total bits for d parameters and T samples—an exponential improvement over prior work.
