@@ -1,6 +1,6 @@
 # Adaptive Quantization Preserves Fast Rates for TD Learning over Rate Limited-Channels
 <p align="center">
-  <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/Algo.pdf"
+  <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/Algo-final.png"
        alt="Figure 2" width="335">
 </p>
 <br>
