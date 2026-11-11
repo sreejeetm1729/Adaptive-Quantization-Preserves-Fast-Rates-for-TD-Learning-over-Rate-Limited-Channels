@@ -7,7 +7,7 @@
   <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/ECC-1.png"
        alt="Figure 2" width="280">
   <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/ECC-2.png"
-       alt="Figure 1" width="270">
+       alt="Figure 1" width="280">
   <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/ECC-3.png"
        alt="Figure 1" width="280">
 </p>
