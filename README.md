@@ -8,9 +8,9 @@ Motivated by reinforcement learning subject to communication constraints, we stu
 </br>
 <p align="center">
   <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/ECC-1.png"
-       alt="Figure 2" width="240">
+       alt="Figure 2" width="260">
   <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/ECC-2.png"
-       alt="Figure 1" width="240">
+       alt="Figure 1" width="260">
   <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/ECC-3.png"
-       alt="Figure 1" width="240">
+       alt="Figure 1" width="260">
 </p>
