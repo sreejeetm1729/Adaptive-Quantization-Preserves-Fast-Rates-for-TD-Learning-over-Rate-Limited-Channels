@@ -1,6 +1,6 @@
 # Adaptive Quantization Preserves Fast Rates for TD Learning over Rate Limited-Channels
 <p align="center">
-  <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figures%20Robust%20Fed-Q/Figure%201%20Robust%20Fed%20Q%20with%20corruption%20fraction%200.01.png"
+  <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/Algo.pdf"
        alt="Figure 2" width="335">
 </p>
 <br>
